@@ -1,0 +1,19 @@
+{% extends "blog/base.html" %}
+
+{% block title %}Add a comment{% endblock %}
+
+{% block content %}
+    {% if comment %}
+        <h2>Your comment has been added.</h2>
+        <p><a href="{{ post.get_absolute_url }}">Back to the Post</a></p>
+    {% else %} 
+       {% include "blog/post/includes/comment_form.html" %}
+    {% endif %}
+{% endblock %}
+
+<!-- THis is the template for the post comment  view. Here the form are submitted via POST method. -->
+
+<!-- If form data submitted is valid, the comment variable will contain the comment ogj: that was created and a success message will be displeyed. -->
+
+<!-- If the form data submitted is not valid, comment var:will be None. Thus it display the comment form. {%include%}  is used to include the comment_form.html
+ -->
