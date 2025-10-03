@@ -6,9 +6,9 @@ Projects include frontend and backend code, demo apps, and experiments with diff
 ## Projects
 
 - **Rock Paper Scissors** — A simple JavaScript game to practice DOM manipulation and event handling.
-- ** To-Do-List** - A to do list app
-- *
-- *
+- **To-Do-List** - A to do list app
+- **Space-Exploration** - A fun and fantastic space exploration site.!
+ - *
 
 ## Technologies Used
 
