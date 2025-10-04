@@ -1,0 +1,22 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIcA4QMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAACAAEDB//EABYQAQEBAAAAAAAAAAAAAAAAAAABEf/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDypJDyJJAkkCSQJNxYIxYWLA0cbjcWBrMZhYsDRRYsDRTcWAxJCpJAkkCSQJJAkkCSQJNQixuLG4JrMbjcbiJrMWFjcE0cWFiwNHFh4zA0MWHjMDQxmOmMwXQxmHjMVdBEwViSFSSBJIEkgTU0RNkUhSDOswpGyNkRNZjcbIWDOjjcLG4iaGLDxuCa54sdMZgaGMx0xmC654zHTGWKuueMsOxlg1rnjDsZYLKDCrFaYkhUkgTYyNgjY2RQoM1SFIpCkRm1SNkbIUiM2skKRsjZBm1mNwpG4jOhjcPFgmhiw8WBrnjMdMZYLrnYNjrYNirK52DY6WDYNyudg2Olg2K1KFGnYNGoNYVFWkkhWxsZCgzWwoyFEZrYcjIUiMVshSKQpBi1SFIpCkRi1SNxshSDOjiw8WImhiw8WBrnjLHSwbFWVzsGx1sGwalcrBsdLBsVuVzsGw7Bo3KFgV0oVW4NGlWVWoKahWwoMKCUoUZCiMUocGFEYpQ5BhxHOtkKRQoMVSFIpCkRi1YsKRuImhiw8Zga52MsOxlVZXOwK6Uarcc7AsdKNG450K6UKrcChTo1XSBRp0arUFJClCgwoiUoUGFBinDgQ4jFOHAhxHOlDgQ4jFKFGQoMVsLGRqMoaTKA0aVGjUCjSo1W4FCnQqtwKFOjVdIFCnQqtwaNKjRuMSSqoUGFBKcKBDiM04cc4cRzrpCgQojFdIcc4UqMV0hRzlKUYsdJW6Gt1GcLWWs1mhio1to2q1IyhStCjUZQpUKrpBoUqNVuDQpUarcGjW0aNxiSVWxsSCnCiSM0ocSRilDlSHOlKcqSMVspSpIxW63UgWs1IGWstSCDaNqStQLRtSVuBRqQ6QKNSVuDRqStxiSFf//Z");
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: burlywood;
+    width: 150px;
+    background-color: blue;
+}
+
