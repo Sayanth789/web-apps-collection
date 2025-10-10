@@ -52,3 +52,32 @@ body {
 .assist {
     border-radius: 50%;
 }
+
+.book-btn {
+    background-attachment: #1E90FF;
+    color: green;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.book-btn:hover {
+    background-color: #0d6efd;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 123, 255, 0.3);
+}
+
+.search-input  {
+     padding: 7px 22px;
+     border: 2px solid #007BFF;
+     border-radius: 6px;
+     font-size: 16px;
+     outline: none;   
+     transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search-input:focus {
+  border-color: #339CFF;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+}
